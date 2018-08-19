@@ -1,0 +1,6 @@
+{
+  "web3": "http://localhost:8545",
+  "account": "0x10197128bc721efadaf864c713cc97661c3e687c",
+  "ens": "0x0e8c00046b6821410031d4461054c67b39e2ee33",
+  "lighthouse": "airalab.lighthouse.1.robonomics.eth"
+}
